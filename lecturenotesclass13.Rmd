@@ -1,6 +1,6 @@
 ---
 title: "Simulation-based inference - confidence intervals"
-author: ""
+author: "Keith Williams"
 date: "March 3, 2021"
 output: html_document
 editor_options: 
@@ -146,6 +146,9 @@ Suppose you randomly sample 50 students and 5 of them are left handed. If you
 were to take another random sample of 50 students, how many would you expect 
 to be left handed? Would you be surprised if only 3 of them were left handed? 
 Would you be surprised if 40 of them were left handed?
+
+3 - not surprised
+40 - very surprised
 
 ## Quantifying the variability of a sample statistic
 
